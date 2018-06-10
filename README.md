@@ -2,12 +2,12 @@
 To find kinetic constants k1, k2, k3 and plotting all these.
 
 ******************************************************************************************************************************
-Run the following commands in terminal for downloading modules of python:
-Installing modules used in the program:
-sudo apt-get update
-sudo apt-get install python-numpy
-sudo apt-get install python-scipy
-sudo apt-get install python-matplotlib
+*Run the following commands in terminal for downloading modules of python:
+*Installing modules used in the program:
+*sudo apt-get update
+*sudo apt-get install python-numpy
+*sudo apt-get install python-scipy
+*sudo apt-get install python-matplotlib
 
 Paste the data in the given folders as given in the video.
 The cursor should end at the last entry  - let last entry is 122 so curser position should be after 2 not in the line below it.
